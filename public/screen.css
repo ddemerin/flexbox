@@ -7,6 +7,94 @@ html {
 }
 
 body {
-  margin: 0;
+  margin-left: 15rem;
+  margin-right: 15rem;
   min-height: 100%;
+  background-color: #25849c;
+}
+
+main {
+  padding-top: 1rem;
+  display: flexbox;
+  background-color: rgb(220, 239, 241);
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: #124e61;
+  margin-top: .75rem;
+  margin-bottom: 1.75rem;
+}
+
+nav {
+  background-color: rgb(38, 191, 218);
+  margin: 0;
+  padding: .5rem;
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  display: flex;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(221, 216, 216);
+  padding: 1rem;
+  color: black
+}
+
+aside {
+  border: .05rem solid rgb(3, 95, 98);
+  margin: 1rem;
+  padding: .5rem;
+}
+
+img {
+  height: 11rem;
+  width: 12rem;
+}
+
+a {
+  color: black;
+  margin: 0;
+  border: 0;
+  padding: 1rem;
+  font-weight: bold;
+}
+
+h3 {
+  color: #124e61;
+  font-weight: 900;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  color: #124e61;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+article {
+  margin-right: 2rem;
+  text-align: justify;
+}
+
+a.top {
+  color: white;
+  font-weight: 700;
+}
+
+p {
+  font-size: 1.05rem;
 }
