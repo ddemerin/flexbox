@@ -15,7 +15,6 @@ body {
 
 main {
   padding-top: 1rem;
-  display: flexbox;
   background-color: rgb(220, 239, 241);
 }
 
@@ -33,13 +32,6 @@ nav {
   margin: 0;
   padding: 0.5rem;
   text-align: center;
-}
-
-nav ul {
-  display: flex;
-  justify-content: space-between;
-  padding: 0;
-  margin: 0;
 }
 
 .main {
