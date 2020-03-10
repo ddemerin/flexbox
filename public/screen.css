@@ -7,8 +7,8 @@ html {
 }
 
 body {
-  margin-left: 15rem;
-  margin-right: 15rem;
+  margin-left: 30rem;
+  margin-right: 30rem;
   min-height: 100%;
   background-color: #25849c;
 }
@@ -24,14 +24,14 @@ h1 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
   color: #124e61;
-  margin-top: .75rem;
+  margin-top: 0.75rem;
   margin-bottom: 1.75rem;
 }
 
 nav {
   background-color: rgb(38, 191, 218);
   margin: 0;
-  padding: .5rem;
+  padding: 0.5rem;
   text-align: center;
 }
 
@@ -50,13 +50,13 @@ footer {
   text-align: center;
   background-color: rgb(221, 216, 216);
   padding: 1rem;
-  color: black
+  color: black;
 }
 
 aside {
-  border: .05rem solid rgb(3, 95, 98);
+  border: 0.05rem solid rgb(3, 95, 98);
   margin: 1rem;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 img {
